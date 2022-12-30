@@ -1,4 +1,4 @@
-# Kotlin Example
+# Kotlin Examples
 
 This repository holds the kotlin example code for my different [YouTube videos](https://www.youtube.com/@thatprogrammerguy/featured).
 
